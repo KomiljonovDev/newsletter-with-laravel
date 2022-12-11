@@ -1,4 +1,4 @@
-# newsletter (blog app) with laravel fraemwork
+# newsletter (blog app) with laravel framework
 ![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/firstBlogScreen.jpg)
 ![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/secondBlogScreen.jpg)
 # Installation
