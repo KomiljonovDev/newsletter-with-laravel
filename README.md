@@ -1,6 +1,6 @@
 # newsletter (blog app) with laravel fraemwork
-![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/firstPost.jpg)
-![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/secondPost.jpg)
+![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/firstBlogScreen.jpg)
+![](https://komiljonovdev.uz/okdeveloper/tgbots/Bot%20And%20Details/assets/screens/secondBlogScreen.jpg)
 # Installation
 1. git clone `https://github.com/tauseedzaman/newsletter-with-laravel.git`
 2. `cd newsletter-with-laravel`
